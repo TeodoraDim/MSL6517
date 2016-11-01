@@ -25,7 +25,7 @@ samaneh mostafaei
 Laurie Beaudoin
 
 ### Catalogage
-
+GALASSINI Anna-lou
 ### Classification
 
 ### CDWA (Categories for the Description of Works of Art)
@@ -40,7 +40,7 @@ Ophélie Clermont
 Jean-Michel Godbout
 
 ### DDV Parcs (Dictionnaire descriptif et visuel d'objets de Parcs Canada)
-
+GALASSINI Anna-lou
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
@@ -88,7 +88,7 @@ Vanessa Michaud
 Isabelle Algrin
 
 ### International Organization for Standardization (ISO)
-
+Galassini Anna-lou
 ### Langage documentaire
 Vanessa Michaud
 
