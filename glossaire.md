@@ -25,6 +25,7 @@ samaneh mostafaei
 Laurie Beaudoin
 
 ### Catalogage
+Anna-lou GALASSINI
 
 ### Classification
 
@@ -40,7 +41,7 @@ Ophélie Clermont
 Jean-Michel Godbout
 
 ### DDV Parcs (Dictionnaire descriptif et visuel d'objets de Parcs Canada)
-
+GALASSINI Anna-lou
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
@@ -88,7 +89,7 @@ Vanessa Michaud
 Isabelle Algrin
 
 ### International Organization for Standardization (ISO)
-
+GALASSINI Anna-lou 
 ### Langage documentaire
 Vanessa Michaud
 
