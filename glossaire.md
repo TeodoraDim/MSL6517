@@ -43,7 +43,6 @@ Jean-Michel Godbout
 GALASSINI Anna-lou
 
 ### Dictionnaires de données du RCIP
-Isabelle Algrin
 
 ### Dublin Core
 Maëlle Brogard
@@ -94,6 +93,7 @@ Galassini Anna-lou
 Vanessa Michaud
 
 ### LIDO (Lightweight Information Describing Objects)
+Isabelle Algrin
 
 ### Linked Open Data
 Maëlle Brogard
