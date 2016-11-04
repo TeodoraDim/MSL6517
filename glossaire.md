@@ -41,7 +41,9 @@ Jean-Michel Godbout
 
 ### DDV Parcs (Dictionnaire descriptif et visuel d'objets de Parcs Canada)
 GALASSINI Anna-lou
+
 ### Dictionnaires de données du RCIP
+Isabelle Algrin
 
 ### Dublin Core
 Maëlle Brogard
@@ -85,7 +87,6 @@ Laurie Beaudoin
 Vanessa Michaud
 
 ### Interopérabilité
-Isabelle Algrin
 
 ### International Organization for Standardization (ISO)
 Galassini Anna-lou
@@ -93,7 +94,6 @@ Galassini Anna-lou
 Vanessa Michaud
 
 ### LIDO (Lightweight Information Describing Objects)
-Isabelle Algrin
 
 ### Linked Open Data
 Maëlle Brogard
@@ -138,6 +138,7 @@ Annie Breton
 Isabelle Algrin
 
 ### URI Uniform Resource Identifier
+Isabelle Algrin
 
 ### VRA Core 4.0
 
