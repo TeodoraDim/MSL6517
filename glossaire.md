@@ -128,10 +128,12 @@ Ophélie Clermont
 Annie Breton
 
 ### SKOS (Simple Knowledge Organization System)
+Teodora Dimitrova
 
 ### Standard, norme
 
 ### SPARQL
+Teodora Dimitrova
 
 ### Tag
 
@@ -142,6 +144,7 @@ Isabelle Algrin
 Isabelle Algrin
 
 ### VRA Core 4.0
+Teodora Dimitrova
 
 ### Vocabulaire contrôlé
 Iloé Françon
